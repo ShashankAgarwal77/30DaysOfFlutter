@@ -13,7 +13,7 @@ class LoginPage extends StatelessWidget {
             ),
             SizedBox(height: 20.0),
             Text(
-              "Welcome",
+              "Hi, I am Plant",
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
