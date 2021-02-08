@@ -7,10 +7,10 @@ class LoginPage extends StatelessWidget {
         color: Colors.white,
         child: Column(
           children: [
-            Image.asset(
-              "assets/images/login_img.jpg",
-              fit: BoxFit.cover,
-            ),
+            // Image.asset(
+            //   "assets/images/login_img.jpg",
+            //   fit: BoxFit.cover,
+            // ),
             SizedBox(height: 20.0),
             Text(
               "Hi, I am Plant",
